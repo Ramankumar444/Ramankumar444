@@ -19,3 +19,14 @@
  <img src="https://img.icons8.com/ios-glyphs/50/ffffff/github.png" alt="GitHub" width="50" height="50"/>
 
 </p>
+
+
+## My GitHub Stats
+
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=StateinBio&show_icons=true&theme=dark&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StateinBio&layout=compact&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=StateinBio&theme=dark&hide_border=true)
+
+## Contribution Graph
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=StateinBio&theme=react-dark)
